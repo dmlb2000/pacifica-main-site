@@ -1,0 +1,13 @@
+.Logo {
+    width: 100%; 
+    height: 100%;
+    max-height: 128px;
+    object-fit: contain;
+}
+.LogoHeader {
+    height: 64px;
+}
+.Title {
+    font-family: 'Audiowide';
+    src: local('Audiowide'),url(./Audiowide-Regular.ttf) format('truetype');
+}
